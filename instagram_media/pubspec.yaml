@@ -1,7 +1,7 @@
 name: instagram_media
 description: Authenticates a Instagram user and fetches their media via the Instagram Basic API.
 version: 0.0.11
-homepage: https://www.idality.dev
+homepage: https://github.com/augustkimo/instagram_media
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
